@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Amostragem aleatória simples - Campo Grande</name><Style id="samplePoint"><IconStyle><scale>0.85</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle><LabelStyle><scale>0.8</scale></LabelStyle></Style><Folder><name>Limite da área de estudo</name><Placemark><name>Área de amostragem original</name><Polygon><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>-9.154510444,38.759675649,0 -9.158416922,38.758535002,0 -9.158173307,38.757246450,0 -9.157787556,38.756514342,0 -9.157559730,38.755998009,0 -9.157221306,38.755492405,0 -9.157044805,38.755256211,0 -9.157345897,38.755199027,0 -9.157629818,38.755147554,0 -9.157422684,38.754810974,0 -9.157310996,38.754494022,0 -9.157236243,38.754365904,0 -9.157006990,38.754039814,0 -9.156774293,38.753796132,0 -9.156624487,38.753518490,0 -9.156436208,38.753319853,0 -9.156131844,38.753058869,0 -9.155979212,38.752989031,0 -9.153088969,38.753607112,0 -9.153098159,38.753739428,0 -9.153095142,38.753782250,0 -9.153072221,38.753833616,0 -9.153060127,38.753874457,0 -9.153032459,38.753921625,0 -9.153016802,38.753948798,0 -9.153000471,38.754011375,0 -9.152986653,38.754046456,0 -9.152973139,38.754081780,0 -9.152959697,38.754117323,0 -9.152946172,38.754153085,0 -9.152942543,38.754189069,0 -9.152963932,38.754174649,0 -9.152933297,38.754181854,0 -9.152892644,38.754189068,0 -9.152851157,38.754203524,0 -9.152810378,38.754210765,0 -9.152769546,38.754210855,0 -9.152717968,38.754218184,0 -9.152656968,38.754225451,0 -9.152590015,38.754241735,0 -9.152553566,38.754255743,0 -9.152510528,38.754276461,0 -9.152469207,38.754291010,0 -9.152417775,38.754298364,0 -9.152375381,38.754305862,0 -9.152332993,38.754313364,0 -9.152290318,38.754328145,0 -9.152271307,38.754323742,0 -9.152217094,38.754323006,0 -9.152128698,38.754328125,0 -9.152088591,38.754328082,0 -9.152048497,38.754328039,0 -9.151998368,38.754327987,0 -9.151955938,38.754335471,0 -9.151905572,38.754335446,0 -9.151865975,38.754335343,0 -9.151826223,38.754335262,0 -9.151783523,38.754342764,0 -9.151722033,38.754342855,0 -9.151670760,38.754342931,0 -9.151599712,38.754342952,0 -9.151557017,38.754349320,0 -9.151489086,38.754350114,0 -9.151444523,38.754357805,0 -9.151430184,38.754370490,0 -9.151421450,38.754372959,0 -9.151400385,38.754383818,0 -9.151312681,38.754394216,0 -9.151196748,38.754417596,0 -9.151119379,38.754442788,0 -9.151086203,38.754450440,0 -9.151039680,38.754463199,0 -9.151031795,38.754472152,0 -9.150940919,38.754486050,0 -9.150895806,38.754501284,0 -9.150848499,38.754524205,0 -9.150804389,38.754539354,0 -9.150760838,38.754547057,0 -9.150763049,38.754555473,0 -9.150727758,38.754578036,0 -9.150691937,38.754593428,0 -9.150630554,38.754620223,0 -9.150573294,38.754646645,0 -9.150543359,38.754677909,0 -9.150534118,38.754709334,0 -9.150514378,38.754740922,0 -9.150502666,38.754780638,0 -9.150493239,38.754812599,0 -9.150493223,38.754842698,0 -9.150476440,38.754884082,0 -9.150594897,38.754893936,0 -9.150631545,38.754909801,0 -9.150670562,38.754917750,0 -9.150709629,38.754925709,0 -9.150755805,38.754931863,0 -9.150789541,38.754948634,0 -9.150824385,38.754957805,0 -9.150765216,38.755000688,0 -9.150771471,38.755017240,0 -9.154510444,38.759675649,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder><Folder><name>200 pontos aleatórios (P001-P200)</name><Placemark><name>P001</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P001
+Latitude (WGS84): 38.75626194
+Longitude (WGS84): -9.15695491</description><Point><coordinates>-9.156954911,38.756261943,0</coordinates></Point></Placemark><Placemark><name>P002</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P002
+Latitude (WGS84): 38.75582765
+Longitude (WGS84): -9.15349992</description><Point><coordinates>-9.153499921,38.755827652,0</coordinates></Point></Placemark><Placemark><name>P003</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P003
+Latitude (WGS84): 38.75880572
+Longitude (WGS84): -9.15697092</description><Point><coordinates>-9.156970925,38.758805717,0</coordinates></Point></Placemark><Placemark><name>P004</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P004
+Latitude (WGS84): 38.75441720
+Longitude (WGS84): -9.15678090</description><Point><coordinates>-9.156780905,38.754417202,0</coordinates></Point></Placemark><Placemark><name>P005</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P005
+Latitude (WGS84): 38.75913515
+Longitude (WGS84): -9.15601854</description><Point><coordinates>-9.156018544,38.759135148,0</coordinates></Point></Placemark><Placemark><name>P006</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P006
+Latitude (WGS84): 38.75566350
+Longitude (WGS84): -9.15547104</description><Point><coordinates>-9.155471044,38.755663497,0</coordinates></Point></Placemark><Placemark><name>P007</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P007
+Latitude (WGS84): 38.75579410
+Longitude (WGS84): -9.15381835</description><Point><coordinates>-9.153818350,38.755794097,0</coordinates></Point></Placemark><Placemark><name>P008</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P008
+Latitude (WGS84): 38.75764873
+Longitude (WGS84): -9.15692638</description><Point><coordinates>-9.156926381,38.757648730,0</coordinates></Point></Placemark><Placemark><name>P009</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P009
+Latitude (WGS84): 38.75863965
+Longitude (WGS84): -9.15715630</description><Point><coordinates>-9.157156301,38.758639655,0</coordinates></Point></Placemark><Placemark><name>P010</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P010
+Latitude (WGS84): 38.75510268
+Longitude (WGS84): -9.15735407</description><Point><coordinates>-9.157354067,38.755102681,0</coordinates></Point></Placemark><Placemark><name>P011</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P011
+Latitude (WGS84): 38.75811475
+Longitude (WGS84): -9.15339221</description><Point><coordinates>-9.153392214,38.758114754,0</coordinates></Point></Placemark><Placemark><name>P012</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P012
+Latitude (WGS84): 38.75668257
+Longitude (WGS84): -9.15475551</description><Point><coordinates>-9.154755507,38.756682566,0</coordinates></Point></Placemark><Placemark><name>P013</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P013
+Latitude (WGS84): 38.75758309
+Longitude (WGS84): -9.15355635</description><Point><coordinates>-9.153556354,38.757583095,0</coordinates></Point></Placemark><Placemark><name>P014</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P014
+Latitude (WGS84): 38.75756316
+Longitude (WGS84): -9.15321285</description><Point><coordinates>-9.153212850,38.757563160,0</coordinates></Point></Placemark><Placemark><name>P015</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P015
+Latitude (WGS84): 38.75628020
+Longitude (WGS84): -9.15240041</description><Point><coordinates>-9.152400409,38.756280199,0</coordinates></Point></Placemark><Placemark><name>P016</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P016
+Latitude (WGS84): 38.75464596
+Longitude (WGS84): -9.15694690</description><Point><coordinates>-9.156946902,38.754645964,0</coordinates></Point></Placemark><Placemark><name>P017</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P017
+Latitude (WGS84): 38.75344405
+Longitude (WGS84): -9.15520942</description><Point><coordinates>-9.155209420,38.753444054,0</coordinates></Point></Placemark><Placemark><name>P018</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P018
+Latitude (WGS84): 38.75824053
+Longitude (WGS84): -9.15605467</description><Point><coordinates>-9.156054668,38.758240525,0</coordinates></Point></Placemark><Placemark><name>P019</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P019
+Latitude (WGS84): 38.75539465
+Longitude (WGS84): -9.15458766</description><Point><coordinates>-9.154587657,38.755394648,0</coordinates></Point></Placemark><Placemark><name>P020</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P020
+Latitude (WGS84): 38.75737819
+Longitude (WGS84): -9.15364109</description><Point><coordinates>-9.153641095,38.757378186,0</coordinates></Point></Placemark><Placemark><name>P021</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P021
+Latitude (WGS84): 38.75477436
+Longitude (WGS84): -9.15641102</description><Point><coordinates>-9.156411020,38.754774360,0</coordinates></Point></Placemark><Placemark><name>P022</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P022
+Latitude (WGS84): 38.75704256
+Longitude (WGS84): -9.15443503</description><Point><coordinates>-9.154435031,38.757042565,0</coordinates></Point></Placemark><Placemark><name>P023</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P023
+Latitude (WGS84): 38.75522145
+Longitude (WGS84): -9.15166852</description><Point><coordinates>-9.151668522,38.755221448,0</coordinates></Point></Placemark><Placemark><name>P024</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P024
+Latitude (WGS84): 38.75756248
+Longitude (WGS84): -9.15814630</description><Point><coordinates>-9.158146305,38.757562481,0</coordinates></Point></Placemark><Placemark><name>P025</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P025
+Latitude (WGS84): 38.75545663
+Longitude (WGS84): -9.15612057</description><Point><coordinates>-9.156120566,38.755456631,0</coordinates></Point></Placemark><Placemark><name>P026</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P026
+Latitude (WGS84): 38.75548738
+Longitude (WGS84): -9.15326748</description><Point><coordinates>-9.153267481,38.755487382,0</coordinates></Point></Placemark><Placemark><name>P027</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P027
+Latitude (WGS84): 38.75944412
+Longitude (WGS84): -9.15465784</description><Point><coordinates>-9.154657843,38.759444123,0</coordinates></Point></Placemark><Placemark><name>P028</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P028
+Latitude (WGS84): 38.75668646
+Longitude (WGS84): -9.15786291</description><Point><coordinates>-9.157862906,38.756686460,0</coordinates></Point></Placemark><Placemark><name>P029</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P029
+Latitude (WGS84): 38.75940519
+Longitude (WGS84): -9.15534831</description><Point><coordinates>-9.155348309,38.759405185,0</coordinates></Point></Placemark><Placemark><name>P030</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P030
+Latitude (WGS84): 38.75546991
+Longitude (WGS84): -9.15563198</description><Point><coordinates>-9.155631975,38.755469915,0</coordinates></Point></Placemark><Placemark><name>P031</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P031
+Latitude (WGS84): 38.75448429
+Longitude (WGS84): -9.15652507</description><Point><coordinates>-9.156525067,38.754484295,0</coordinates></Point></Placemark><Placemark><name>P032</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P032
+Latitude (WGS84): 38.75461111
+Longitude (WGS84): -9.15404292</description><Point><coordinates>-9.154042919,38.754611114,0</coordinates></Point></Placemark><Placemark><name>P033</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P033
+Latitude (WGS84): 38.75466352
+Longitude (WGS84): -9.15341132</description><Point><coordinates>-9.153411324,38.754663517,0</coordinates></Point></Placemark><Placemark><name>P034</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P034
+Latitude (WGS84): 38.75802688
+Longitude (WGS84): -9.15450730</description><Point><coordinates>-9.154507302,38.758026880,0</coordinates></Point></Placemark><Placemark><name>P035</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P035
+Latitude (WGS84): 38.75597628
+Longitude (WGS84): -9.15403296</description><Point><coordinates>-9.154032961,38.755976279,0</coordinates></Point></Placemark><Placemark><name>P036</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P036
+Latitude (WGS84): 38.75512960
+Longitude (WGS84): -9.15354916</description><Point><coordinates>-9.153549161,38.755129595,0</coordinates></Point></Placemark><Placemark><name>P037</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P037
+Latitude (WGS84): 38.75712819
+Longitude (WGS84): -9.15406740</description><Point><coordinates>-9.154067404,38.757128194,0</coordinates></Point></Placemark><Placemark><name>P038</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P038
+Latitude (WGS84): 38.75769605
+Longitude (WGS84): -9.15341110</description><Point><coordinates>-9.153411102,38.757696049,0</coordinates></Point></Placemark><Placemark><name>P039</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P039
+Latitude (WGS84): 38.75745424
+Longitude (WGS84): -9.15337039</description><Point><coordinates>-9.153370392,38.757454235,0</coordinates></Point></Placemark><Placemark><name>P040</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P040
+Latitude (WGS84): 38.75439112
+Longitude (WGS84): -9.15588238</description><Point><coordinates>-9.155882379,38.754391120,0</coordinates></Point></Placemark><Placemark><name>P041</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P041
+Latitude (WGS84): 38.75754861
+Longitude (WGS84): -9.15524937</description><Point><coordinates>-9.155249370,38.757548610,0</coordinates></Point></Placemark><Placemark><name>P042</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P042
+Latitude (WGS84): 38.75533097
+Longitude (WGS84): -9.15364400</description><Point><coordinates>-9.153644000,38.755330974,0</coordinates></Point></Placemark><Placemark><name>P043</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P043
+Latitude (WGS84): 38.75869204
+Longitude (WGS84): -9.15608500</description><Point><coordinates>-9.156084999,38.758692039,0</coordinates></Point></Placemark><Placemark><name>P044</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P044
+Latitude (WGS84): 38.75591284
+Longitude (WGS84): -9.15183008</description><Point><coordinates>-9.151830082,38.755912843,0</coordinates></Point></Placemark><Placemark><name>P045</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P045
+Latitude (WGS84): 38.75528182
+Longitude (WGS84): -9.15501303</description><Point><coordinates>-9.155013025,38.755281819,0</coordinates></Point></Placemark><Placemark><name>P046</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P046
+Latitude (WGS84): 38.75850012
+Longitude (WGS84): -9.15457878</description><Point><coordinates>-9.154578782,38.758500116,0</coordinates></Point></Placemark><Placemark><name>P047</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P047
+Latitude (WGS84): 38.75793755
+Longitude (WGS84): -9.15720269</description><Point><coordinates>-9.157202689,38.757937545,0</coordinates></Point></Placemark><Placemark><name>P048</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P048
+Latitude (WGS84): 38.75654548
+Longitude (WGS84): -9.15453635</description><Point><coordinates>-9.154536354,38.756545481,0</coordinates></Point></Placemark><Placemark><name>P049</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P049
+Latitude (WGS84): 38.75596303
+Longitude (WGS84): -9.15263647</description><Point><coordinates>-9.152636475,38.755963027,0</coordinates></Point></Placemark><Placemark><name>P050</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P050
+Latitude (WGS84): 38.75402314
+Longitude (WGS84): -9.15425724</description><Point><coordinates>-9.154257239,38.754023136,0</coordinates></Point></Placemark><Placemark><name>P051</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P051
+Latitude (WGS84): 38.75648490
+Longitude (WGS84): -9.15732347</description><Point><coordinates>-9.157323474,38.756484900,0</coordinates></Point></Placemark><Placemark><name>P052</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P052
+Latitude (WGS84): 38.75830902
+Longitude (WGS84): -9.15452119</description><Point><coordinates>-9.154521187,38.758309018,0</coordinates></Point></Placemark><Placemark><name>P053</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P053
+Latitude (WGS84): 38.75560857
+Longitude (WGS84): -9.15289680</description><Point><coordinates>-9.152896803,38.755608568,0</coordinates></Point></Placemark><Placemark><name>P054</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P054
+Latitude (WGS84): 38.75921046
+Longitude (WGS84): -9.15491945</description><Point><coordinates>-9.154919455,38.759210456,0</coordinates></Point></Placemark><Placemark><name>P055</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P055
+Latitude (WGS84): 38.75634487
+Longitude (WGS84): -9.15698724</description><Point><coordinates>-9.156987241,38.756344869,0</coordinates></Point></Placemark><Placemark><name>P056</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P056
+Latitude (WGS84): 38.75369283
+Longitude (WGS84): -9.15668604</description><Point><coordinates>-9.156686037,38.753692827,0</coordinates></Point></Placemark><Placemark><name>P057</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P057
+Latitude (WGS84): 38.75625162
+Longitude (WGS84): -9.15706187</description><Point><coordinates>-9.157061867,38.756251619,0</coordinates></Point></Placemark><Placemark><name>P058</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P058
+Latitude (WGS84): 38.75846889
+Longitude (WGS84): -9.15665246</description><Point><coordinates>-9.156652465,38.758468891,0</coordinates></Point></Placemark><Placemark><name>P059</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P059
+Latitude (WGS84): 38.75579783
+Longitude (WGS84): -9.15538141</description><Point><coordinates>-9.155381410,38.755797830,0</coordinates></Point></Placemark><Placemark><name>P060</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P060
+Latitude (WGS84): 38.75655940
+Longitude (WGS84): -9.15351183</description><Point><coordinates>-9.153511835,38.756559403,0</coordinates></Point></Placemark><Placemark><name>P061</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P061
+Latitude (WGS84): 38.75511850
+Longitude (WGS84): -9.15346217</description><Point><coordinates>-9.153462174,38.755118501,0</coordinates></Point></Placemark><Placemark><name>P062</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P062
+Latitude (WGS84): 38.75836707
+Longitude (WGS84): -9.15695124</description><Point><coordinates>-9.156951238,38.758367069,0</coordinates></Point></Placemark><Placemark><name>P063</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P063
+Latitude (WGS84): 38.75750924
+Longitude (WGS84): -9.15521380</description><Point><coordinates>-9.155213796,38.757509239,0</coordinates></Point></Placemark><Placemark><name>P064</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P064
+Latitude (WGS84): 38.75887039
+Longitude (WGS84): -9.15663955</description><Point><coordinates>-9.156639553,38.758870387,0</coordinates></Point></Placemark><Placemark><name>P065</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P065
+Latitude (WGS84): 38.75392682
+Longitude (WGS84): -9.15686444</description><Point><coordinates>-9.156864444,38.753926822,0</coordinates></Point></Placemark><Placemark><name>P066</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P066
+Latitude (WGS84): 38.75774535
+Longitude (WGS84): -9.15741763</description><Point><coordinates>-9.157417634,38.757745354,0</coordinates></Point></Placemark><Placemark><name>P067</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P067
+Latitude (WGS84): 38.75875821
+Longitude (WGS84): -9.15435831</description><Point><coordinates>-9.154358313,38.758758214,0</coordinates></Point></Placemark><Placemark><name>P068</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P068
+Latitude (WGS84): 38.75862322
+Longitude (WGS84): -9.15372940</description><Point><coordinates>-9.153729395,38.758623224,0</coordinates></Point></Placemark><Placemark><name>P069</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P069
+Latitude (WGS84): 38.75544508
+Longitude (WGS84): -9.15555417</description><Point><coordinates>-9.155554170,38.755445078,0</coordinates></Point></Placemark><Placemark><name>P070</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P070
+Latitude (WGS84): 38.75432439
+Longitude (WGS84): -9.15668112</description><Point><coordinates>-9.156681124,38.754324386,0</coordinates></Point></Placemark><Placemark><name>P071</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P071
+Latitude (WGS84): 38.75454630
+Longitude (WGS84): -9.15154588</description><Point><coordinates>-9.151545876,38.754546298,0</coordinates></Point></Placemark><Placemark><name>P072</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P072
+Latitude (WGS84): 38.75545854
+Longitude (WGS84): -9.15374945</description><Point><coordinates>-9.153749452,38.755458538,0</coordinates></Point></Placemark><Placemark><name>P073</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P073
+Latitude (WGS84): 38.75386527
+Longitude (WGS84): -9.15489477</description><Point><coordinates>-9.154894769,38.753865270,0</coordinates></Point></Placemark><Placemark><name>P074</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P074
+Latitude (WGS84): 38.75313755
+Longitude (WGS84): -9.15534984</description><Point><coordinates>-9.155349836,38.753137553,0</coordinates></Point></Placemark><Placemark><name>P075</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P075
+Latitude (WGS84): 38.75807349
+Longitude (WGS84): -9.15669492</description><Point><coordinates>-9.156694920,38.758073488,0</coordinates></Point></Placemark><Placemark><name>P076</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P076
+Latitude (WGS84): 38.75507050
+Longitude (WGS84): -9.15494059</description><Point><coordinates>-9.154940588,38.755070500,0</coordinates></Point></Placemark><Placemark><name>P077</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P077
+Latitude (WGS84): 38.75528042
+Longitude (WGS84): -9.15163071</description><Point><coordinates>-9.151630714,38.755280422,0</coordinates></Point></Placemark><Placemark><name>P078</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P078
+Latitude (WGS84): 38.75724656
+Longitude (WGS84): -9.15487412</description><Point><coordinates>-9.154874119,38.757246562,0</coordinates></Point></Placemark><Placemark><name>P079</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P079
+Latitude (WGS84): 38.75518986
+Longitude (WGS84): -9.15413887</description><Point><coordinates>-9.154138866,38.755189856,0</coordinates></Point></Placemark><Placemark><name>P080</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P080
+Latitude (WGS84): 38.75666140
+Longitude (WGS84): -9.15527633</description><Point><coordinates>-9.155276332,38.756661401,0</coordinates></Point></Placemark><Placemark><name>P081</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P081
+Latitude (WGS84): 38.75760661
+Longitude (WGS84): -9.15376366</description><Point><coordinates>-9.153763663,38.757606607,0</coordinates></Point></Placemark><Placemark><name>P082</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P082
+Latitude (WGS84): 38.75800769
+Longitude (WGS84): -9.15682585</description><Point><coordinates>-9.156825849,38.758007689,0</coordinates></Point></Placemark><Placemark><name>P083</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P083
+Latitude (WGS84): 38.75869337
+Longitude (WGS84): -9.15492635</description><Point><coordinates>-9.154926347,38.758693368,0</coordinates></Point></Placemark><Placemark><name>P084</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P084
+Latitude (WGS84): 38.75473652
+Longitude (WGS84): -9.15085238</description><Point><coordinates>-9.150852385,38.754736522,0</coordinates></Point></Placemark><Placemark><name>P085</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P085
+Latitude (WGS84): 38.75885158
+Longitude (WGS84): -9.15670578</description><Point><coordinates>-9.156705778,38.758851577,0</coordinates></Point></Placemark><Placemark><name>P086</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P086
+Latitude (WGS84): 38.75901947
+Longitude (WGS84): -9.15519720</description><Point><coordinates>-9.155197201,38.759019474,0</coordinates></Point></Placemark><Placemark><name>P087</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P087
+Latitude (WGS84): 38.75638227
+Longitude (WGS84): -9.15668545</description><Point><coordinates>-9.156685448,38.756382268,0</coordinates></Point></Placemark><Placemark><name>P088</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P088
+Latitude (WGS84): 38.75366807
+Longitude (WGS84): -9.15531469</description><Point><coordinates>-9.155314689,38.753668075,0</coordinates></Point></Placemark><Placemark><name>P089</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P089
+Latitude (WGS84): 38.75458297
+Longitude (WGS84): -9.15214434</description><Point><coordinates>-9.152144340,38.754582967,0</coordinates></Point></Placemark><Placemark><name>P090</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P090
+Latitude (WGS84): 38.75765715
+Longitude (WGS84): -9.15352900</description><Point><coordinates>-9.153529004,38.757657152,0</coordinates></Point></Placemark><Placemark><name>P091</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P091
+Latitude (WGS84): 38.75430993
+Longitude (WGS84): -9.15641974</description><Point><coordinates>-9.156419738,38.754309930,0</coordinates></Point></Placemark><Placemark><name>P092</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P092
+Latitude (WGS84): 38.75632611
+Longitude (WGS84): -9.15268262</description><Point><coordinates>-9.152682625,38.756326111,0</coordinates></Point></Placemark><Placemark><name>P093</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P093
+Latitude (WGS84): 38.75398145
+Longitude (WGS84): -9.15365685</description><Point><coordinates>-9.153656851,38.753981451,0</coordinates></Point></Placemark><Placemark><name>P094</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P094
+Latitude (WGS84): 38.75481856
+Longitude (WGS84): -9.15289162</description><Point><coordinates>-9.152891616,38.754818557,0</coordinates></Point></Placemark><Placemark><name>P095</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P095
+Latitude (WGS84): 38.75852936
+Longitude (WGS84): -9.15455446</description><Point><coordinates>-9.154554464,38.758529360,0</coordinates></Point></Placemark><Placemark><name>P096</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P096
+Latitude (WGS84): 38.75784252
+Longitude (WGS84): -9.15819612</description><Point><coordinates>-9.158196122,38.757842517,0</coordinates></Point></Placemark><Placemark><name>P097</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P097
+Latitude (WGS84): 38.75596087
+Longitude (WGS84): -9.15482360</description><Point><coordinates>-9.154823604,38.755960874,0</coordinates></Point></Placemark><Placemark><name>P098</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P098
+Latitude (WGS84): 38.75563184
+Longitude (WGS84): -9.15658766</description><Point><coordinates>-9.156587656,38.755631841,0</coordinates></Point></Placemark><Placemark><name>P099</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P099
+Latitude (WGS84): 38.75904905
+Longitude (WGS84): -9.15525964</description><Point><coordinates>-9.155259640,38.759049052,0</coordinates></Point></Placemark><Placemark><name>P100</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P100
+Latitude (WGS84): 38.75429500
+Longitude (WGS84): -9.15368941</description><Point><coordinates>-9.153689413,38.754294999,0</coordinates></Point></Placemark><Placemark><name>P101</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P101
+Latitude (WGS84): 38.75862862
+Longitude (WGS84): -9.15623361</description><Point><coordinates>-9.156233610,38.758628616,0</coordinates></Point></Placemark><Placemark><name>P102</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P102
+Latitude (WGS84): 38.75685583
+Longitude (WGS84): -9.15252033</description><Point><coordinates>-9.152520326,38.756855829,0</coordinates></Point></Placemark><Placemark><name>P103</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P103
+Latitude (WGS84): 38.75363843
+Longitude (WGS84): -9.15435080</description><Point><coordinates>-9.154350796,38.753638434,0</coordinates></Point></Placemark><Placemark><name>P104</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P104
+Latitude (WGS84): 38.75442634
+Longitude (WGS84): -9.15668183</description><Point><coordinates>-9.156681831,38.754426343,0</coordinates></Point></Placemark><Placemark><name>P105</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P105
+Latitude (WGS84): 38.75367357
+Longitude (WGS84): -9.15481734</description><Point><coordinates>-9.154817344,38.753673565,0</coordinates></Point></Placemark><Placemark><name>P106</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P106
+Latitude (WGS84): 38.75377188
+Longitude (WGS84): -9.15381876</description><Point><coordinates>-9.153818761,38.753771877,0</coordinates></Point></Placemark><Placemark><name>P107</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P107
+Latitude (WGS84): 38.75790016
+Longitude (WGS84): -9.15443892</description><Point><coordinates>-9.154438922,38.757900161,0</coordinates></Point></Placemark><Placemark><name>P108</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P108
+Latitude (WGS84): 38.75896467
+Longitude (WGS84): -9.15555394</description><Point><coordinates>-9.155553944,38.758964673,0</coordinates></Point></Placemark><Placemark><name>P109</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P109
+Latitude (WGS84): 38.75783796
+Longitude (WGS84): -9.15631669</description><Point><coordinates>-9.156316685,38.757837963,0</coordinates></Point></Placemark><Placemark><name>P110</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P110
+Latitude (WGS84): 38.75810582
+Longitude (WGS84): -9.15549301</description><Point><coordinates>-9.155493014,38.758105816,0</coordinates></Point></Placemark><Placemark><name>P111</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P111
+Latitude (WGS84): 38.75569403
+Longitude (WGS84): -9.15636146</description><Point><coordinates>-9.156361460,38.755694032,0</coordinates></Point></Placemark><Placemark><name>P112</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P112
+Latitude (WGS84): 38.75778298
+Longitude (WGS84): -9.15694638</description><Point><coordinates>-9.156946376,38.757782979,0</coordinates></Point></Placemark><Placemark><name>P113</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P113
+Latitude (WGS84): 38.75660723
+Longitude (WGS84): -9.15271531</description><Point><coordinates>-9.152715314,38.756607232,0</coordinates></Point></Placemark><Placemark><name>P114</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P114
+Latitude (WGS84): 38.75434051
+Longitude (WGS84): -9.15528296</description><Point><coordinates>-9.155282964,38.754340513,0</coordinates></Point></Placemark><Placemark><name>P115</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P115
+Latitude (WGS84): 38.75617198
+Longitude (WGS84): -9.15601123</description><Point><coordinates>-9.156011227,38.756171978,0</coordinates></Point></Placemark><Placemark><name>P116</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P116
+Latitude (WGS84): 38.75816933
+Longitude (WGS84): -9.15589923</description><Point><coordinates>-9.155899234,38.758169329,0</coordinates></Point></Placemark><Placemark><name>P117</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P117
+Latitude (WGS84): 38.75424405
+Longitude (WGS84): -9.15598091</description><Point><coordinates>-9.155980909,38.754244045,0</coordinates></Point></Placemark><Placemark><name>P118</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P118
+Latitude (WGS84): 38.75733453
+Longitude (WGS84): -9.15339453</description><Point><coordinates>-9.153394526,38.757334526,0</coordinates></Point></Placemark><Placemark><name>P119</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P119
+Latitude (WGS84): 38.75481489
+Longitude (WGS84): -9.15165000</description><Point><coordinates>-9.151650003,38.754814889,0</coordinates></Point></Placemark><Placemark><name>P120</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P120
+Latitude (WGS84): 38.75834372
+Longitude (WGS84): -9.15760487</description><Point><coordinates>-9.157604868,38.758343719,0</coordinates></Point></Placemark><Placemark><name>P121</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P121
+Latitude (WGS84): 38.75602978
+Longitude (WGS84): -9.15531071</description><Point><coordinates>-9.155310713,38.756029784,0</coordinates></Point></Placemark><Placemark><name>P122</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P122
+Latitude (WGS84): 38.75894932
+Longitude (WGS84): -9.15686137</description><Point><coordinates>-9.156861365,38.758949316,0</coordinates></Point></Placemark><Placemark><name>P123</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P123
+Latitude (WGS84): 38.75818842
+Longitude (WGS84): -9.15627876</description><Point><coordinates>-9.156278762,38.758188425,0</coordinates></Point></Placemark><Placemark><name>P124</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P124
+Latitude (WGS84): 38.75645540
+Longitude (WGS84): -9.15445676</description><Point><coordinates>-9.154456760,38.756455398,0</coordinates></Point></Placemark><Placemark><name>P125</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P125
+Latitude (WGS84): 38.75552191
+Longitude (WGS84): -9.15634322</description><Point><coordinates>-9.156343222,38.755521907,0</coordinates></Point></Placemark><Placemark><name>P126</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P126
+Latitude (WGS84): 38.75486612
+Longitude (WGS84): -9.15151457</description><Point><coordinates>-9.151514574,38.754866121,0</coordinates></Point></Placemark><Placemark><name>P127</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P127
+Latitude (WGS84): 38.75755550
+Longitude (WGS84): -9.15339482</description><Point><coordinates>-9.153394817,38.757555503,0</coordinates></Point></Placemark><Placemark><name>P128</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P128
+Latitude (WGS84): 38.75784462
+Longitude (WGS84): -9.15544717</description><Point><coordinates>-9.155447166,38.757844622,0</coordinates></Point></Placemark><Placemark><name>P129</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P129
+Latitude (WGS84): 38.75680514
+Longitude (WGS84): -9.15489636</description><Point><coordinates>-9.154896356,38.756805139,0</coordinates></Point></Placemark><Placemark><name>P130</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P130
+Latitude (WGS84): 38.75565654
+Longitude (WGS84): -9.15355936</description><Point><coordinates>-9.153559361,38.755656536,0</coordinates></Point></Placemark><Placemark><name>P131</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P131
+Latitude (WGS84): 38.75476662
+Longitude (WGS84): -9.15670636</description><Point><coordinates>-9.156706361,38.754766624,0</coordinates></Point></Placemark><Placemark><name>P132</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P132
+Latitude (WGS84): 38.75506746
+Longitude (WGS84): -9.15687704</description><Point><coordinates>-9.156877037,38.755067461,0</coordinates></Point></Placemark><Placemark><name>P133</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P133
+Latitude (WGS84): 38.75755029
+Longitude (WGS84): -9.15412812</description><Point><coordinates>-9.154128116,38.757550290,0</coordinates></Point></Placemark><Placemark><name>P134</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P134
+Latitude (WGS84): 38.75533321
+Longitude (WGS84): -9.15179218</description><Point><coordinates>-9.151792181,38.755333207,0</coordinates></Point></Placemark><Placemark><name>P135</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P135
+Latitude (WGS84): 38.75871580
+Longitude (WGS84): -9.15450569</description><Point><coordinates>-9.154505691,38.758715799,0</coordinates></Point></Placemark><Placemark><name>P136</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P136
+Latitude (WGS84): 38.75816203
+Longitude (WGS84): -9.15395667</description><Point><coordinates>-9.153956669,38.758162031,0</coordinates></Point></Placemark><Placemark><name>P137</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P137
+Latitude (WGS84): 38.75492638
+Longitude (WGS84): -9.15215313</description><Point><coordinates>-9.152153127,38.754926381,0</coordinates></Point></Placemark><Placemark><name>P138</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P138
+Latitude (WGS84): 38.75612791
+Longitude (WGS84): -9.15511379</description><Point><coordinates>-9.155113785,38.756127911,0</coordinates></Point></Placemark><Placemark><name>P139</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P139
+Latitude (WGS84): 38.75507301
+Longitude (WGS84): -9.15501509</description><Point><coordinates>-9.155015091,38.755073006,0</coordinates></Point></Placemark><Placemark><name>P140</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P140
+Latitude (WGS84): 38.75915760
+Longitude (WGS84): -9.15477144</description><Point><coordinates>-9.154771442,38.759157605,0</coordinates></Point></Placemark><Placemark><name>P141</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P141
+Latitude (WGS84): 38.75563907
+Longitude (WGS84): -9.15324119</description><Point><coordinates>-9.153241191,38.755639065,0</coordinates></Point></Placemark><Placemark><name>P142</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P142
+Latitude (WGS84): 38.75703337
+Longitude (WGS84): -9.15310789</description><Point><coordinates>-9.153107890,38.757033369,0</coordinates></Point></Placemark><Placemark><name>P143</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P143
+Latitude (WGS84): 38.75862962
+Longitude (WGS84): -9.15493140</description><Point><coordinates>-9.154931402,38.758629623,0</coordinates></Point></Placemark><Placemark><name>P144</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P144
+Latitude (WGS84): 38.75868126
+Longitude (WGS84): -9.15499061</description><Point><coordinates>-9.154990613,38.758681260,0</coordinates></Point></Placemark><Placemark><name>P145</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P145
+Latitude (WGS84): 38.75444446
+Longitude (WGS84): -9.15370422</description><Point><coordinates>-9.153704218,38.754444458,0</coordinates></Point></Placemark><Placemark><name>P146</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P146
+Latitude (WGS84): 38.75475347
+Longitude (WGS84): -9.15518018</description><Point><coordinates>-9.155180181,38.754753469,0</coordinates></Point></Placemark><Placemark><name>P147</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P147
+Latitude (WGS84): 38.75874796
+Longitude (WGS84): -9.15455197</description><Point><coordinates>-9.154551971,38.758747960,0</coordinates></Point></Placemark><Placemark><name>P148</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P148
+Latitude (WGS84): 38.75390246
+Longitude (WGS84): -9.15305535</description><Point><coordinates>-9.153055354,38.753902457,0</coordinates></Point></Placemark><Placemark><name>P149</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P149
+Latitude (WGS84): 38.75677820
+Longitude (WGS84): -9.15319914</description><Point><coordinates>-9.153199138,38.756778197,0</coordinates></Point></Placemark><Placemark><name>P150</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P150
+Latitude (WGS84): 38.75810507
+Longitude (WGS84): -9.15469325</description><Point><coordinates>-9.154693253,38.758105072,0</coordinates></Point></Placemark><Placemark><name>P151</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P151
+Latitude (WGS84): 38.75827693
+Longitude (WGS84): -9.15819663</description><Point><coordinates>-9.158196631,38.758276925,0</coordinates></Point></Placemark><Placemark><name>P152</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P152
+Latitude (WGS84): 38.75651251
+Longitude (WGS84): -9.15254735</description><Point><coordinates>-9.152547350,38.756512511,0</coordinates></Point></Placemark><Placemark><name>P153</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P153
+Latitude (WGS84): 38.75613735
+Longitude (WGS84): -9.15402540</description><Point><coordinates>-9.154025402,38.756137348,0</coordinates></Point></Placemark><Placemark><name>P154</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P154
+Latitude (WGS84): 38.75449835
+Longitude (WGS84): -9.15277985</description><Point><coordinates>-9.152779849,38.754498345,0</coordinates></Point></Placemark><Placemark><name>P155</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P155
+Latitude (WGS84): 38.75345649
+Longitude (WGS84): -9.15538587</description><Point><coordinates>-9.155385872,38.753456493,0</coordinates></Point></Placemark><Placemark><name>P156</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P156
+Latitude (WGS84): 38.75352933
+Longitude (WGS84): -9.15562762</description><Point><coordinates>-9.155627620,38.753529332,0</coordinates></Point></Placemark><Placemark><name>P157</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P157
+Latitude (WGS84): 38.75470827
+Longitude (WGS84): -9.15201273</description><Point><coordinates>-9.152012731,38.754708271,0</coordinates></Point></Placemark><Placemark><name>P158</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P158
+Latitude (WGS84): 38.75544465
+Longitude (WGS84): -9.15484258</description><Point><coordinates>-9.154842581,38.755444652,0</coordinates></Point></Placemark><Placemark><name>P159</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P159
+Latitude (WGS84): 38.75707771
+Longitude (WGS84): -9.15359562</description><Point><coordinates>-9.153595617,38.757077713,0</coordinates></Point></Placemark><Placemark><name>P160</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P160
+Latitude (WGS84): 38.75507605
+Longitude (WGS84): -9.15166055</description><Point><coordinates>-9.151660547,38.755076051,0</coordinates></Point></Placemark><Placemark><name>P161</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P161
+Latitude (WGS84): 38.75331973
+Longitude (WGS84): -9.15519296</description><Point><coordinates>-9.155192963,38.753319734,0</coordinates></Point></Placemark><Placemark><name>P162</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P162
+Latitude (WGS84): 38.75576130
+Longitude (WGS84): -9.15175106</description><Point><coordinates>-9.151751057,38.755761296,0</coordinates></Point></Placemark><Placemark><name>P163</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P163
+Latitude (WGS84): 38.75553072
+Longitude (WGS84): -9.15134374</description><Point><coordinates>-9.151343739,38.755530722,0</coordinates></Point></Placemark><Placemark><name>P164</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P164
+Latitude (WGS84): 38.75612713
+Longitude (WGS84): -9.15520606</description><Point><coordinates>-9.155206059,38.756127128,0</coordinates></Point></Placemark><Placemark><name>P165</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P165
+Latitude (WGS84): 38.75825739
+Longitude (WGS84): -9.15678381</description><Point><coordinates>-9.156783806,38.758257393,0</coordinates></Point></Placemark><Placemark><name>P166</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P166
+Latitude (WGS84): 38.75690813
+Longitude (WGS84): -9.15439366</description><Point><coordinates>-9.154393657,38.756908131,0</coordinates></Point></Placemark><Placemark><name>P167</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P167
+Latitude (WGS84): 38.75706324
+Longitude (WGS84): -9.15561446</description><Point><coordinates>-9.155614461,38.757063240,0</coordinates></Point></Placemark><Placemark><name>P168</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P168
+Latitude (WGS84): 38.75548054
+Longitude (WGS84): -9.15311148</description><Point><coordinates>-9.153111484,38.755480543,0</coordinates></Point></Placemark><Placemark><name>P169</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P169
+Latitude (WGS84): 38.75678540
+Longitude (WGS84): -9.15220876</description><Point><coordinates>-9.152208755,38.756785404,0</coordinates></Point></Placemark><Placemark><name>P170</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P170
+Latitude (WGS84): 38.75735363
+Longitude (WGS84): -9.15600924</description><Point><coordinates>-9.156009244,38.757353634,0</coordinates></Point></Placemark><Placemark><name>P171</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P171
+Latitude (WGS84): 38.75815551
+Longitude (WGS84): -9.15647269</description><Point><coordinates>-9.156472686,38.758155506,0</coordinates></Point></Placemark><Placemark><name>P172</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P172
+Latitude (WGS84): 38.75438291
+Longitude (WGS84): -9.15280812</description><Point><coordinates>-9.152808117,38.754382911,0</coordinates></Point></Placemark><Placemark><name>P173</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P173
+Latitude (WGS84): 38.75708606
+Longitude (WGS84): -9.15514325</description><Point><coordinates>-9.155143254,38.757086064,0</coordinates></Point></Placemark><Placemark><name>P174</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P174
+Latitude (WGS84): 38.75518079
+Longitude (WGS84): -9.15495804</description><Point><coordinates>-9.154958042,38.755180793,0</coordinates></Point></Placemark><Placemark><name>P175</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P175
+Latitude (WGS84): 38.75708972
+Longitude (WGS84): -9.15731500</description><Point><coordinates>-9.157315002,38.757089723,0</coordinates></Point></Placemark><Placemark><name>P176</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P176
+Latitude (WGS84): 38.75362252
+Longitude (WGS84): -9.15486027</description><Point><coordinates>-9.154860271,38.753622517,0</coordinates></Point></Placemark><Placemark><name>P177</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P177
+Latitude (WGS84): 38.75622243
+Longitude (WGS84): -9.15672589</description><Point><coordinates>-9.156725895,38.756222428,0</coordinates></Point></Placemark><Placemark><name>P178</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P178
+Latitude (WGS84): 38.75494648
+Longitude (WGS84): -9.15473941</description><Point><coordinates>-9.154739406,38.754946484,0</coordinates></Point></Placemark><Placemark><name>P179</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P179
+Latitude (WGS84): 38.75643158
+Longitude (WGS84): -9.15752336</description><Point><coordinates>-9.157523360,38.756431582,0</coordinates></Point></Placemark><Placemark><name>P180</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P180
+Latitude (WGS84): 38.75655939
+Longitude (WGS84): -9.15556352</description><Point><coordinates>-9.155563518,38.756559392,0</coordinates></Point></Placemark><Placemark><name>P181</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P181
+Latitude (WGS84): 38.75936873
+Longitude (WGS84): -9.15517699</description><Point><coordinates>-9.155176986,38.759368733,0</coordinates></Point></Placemark><Placemark><name>P182</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P182
+Latitude (WGS84): 38.75564917
+Longitude (WGS84): -9.15662567</description><Point><coordinates>-9.156625675,38.755649170,0</coordinates></Point></Placemark><Placemark><name>P183</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P183
+Latitude (WGS84): 38.75504392
+Longitude (WGS84): -9.15137205</description><Point><coordinates>-9.151372052,38.755043915,0</coordinates></Point></Placemark><Placemark><name>P184</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P184
+Latitude (WGS84): 38.75540189
+Longitude (WGS84): -9.15521017</description><Point><coordinates>-9.155210175,38.755401892,0</coordinates></Point></Placemark><Placemark><name>P185</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P185
+Latitude (WGS84): 38.75550004
+Longitude (WGS84): -9.15691649</description><Point><coordinates>-9.156916492,38.755500038,0</coordinates></Point></Placemark><Placemark><name>P186</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P186
+Latitude (WGS84): 38.75671209
+Longitude (WGS84): -9.15303174</description><Point><coordinates>-9.153031738,38.756712093,0</coordinates></Point></Placemark><Placemark><name>P187</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P187
+Latitude (WGS84): 38.75457020
+Longitude (WGS84): -9.15417419</description><Point><coordinates>-9.154174194,38.754570202,0</coordinates></Point></Placemark><Placemark><name>P188</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P188
+Latitude (WGS84): 38.75846333
+Longitude (WGS84): -9.15421364</description><Point><coordinates>-9.154213644,38.758463331,0</coordinates></Point></Placemark><Placemark><name>P189</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P189
+Latitude (WGS84): 38.75672045
+Longitude (WGS84): -9.15783882</description><Point><coordinates>-9.157838820,38.756720453,0</coordinates></Point></Placemark><Placemark><name>P190</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P190
+Latitude (WGS84): 38.75396836
+Longitude (WGS84): -9.15613797</description><Point><coordinates>-9.156137968,38.753968362,0</coordinates></Point></Placemark><Placemark><name>P191</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P191
+Latitude (WGS84): 38.75478823
+Longitude (WGS84): -9.15718842</description><Point><coordinates>-9.157188423,38.754788233,0</coordinates></Point></Placemark><Placemark><name>P192</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P192
+Latitude (WGS84): 38.75904785
+Longitude (WGS84): -9.15664398</description><Point><coordinates>-9.156643979,38.759047851,0</coordinates></Point></Placemark><Placemark><name>P193</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P193
+Latitude (WGS84): 38.75675648
+Longitude (WGS84): -9.15609525</description><Point><coordinates>-9.156095252,38.756756485,0</coordinates></Point></Placemark><Placemark><name>P194</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P194
+Latitude (WGS84): 38.75401986
+Longitude (WGS84): -9.15457404</description><Point><coordinates>-9.154574039,38.754019857,0</coordinates></Point></Placemark><Placemark><name>P195</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P195
+Latitude (WGS84): 38.75811471
+Longitude (WGS84): -9.15702952</description><Point><coordinates>-9.157029516,38.758114709,0</coordinates></Point></Placemark><Placemark><name>P196</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P196
+Latitude (WGS84): 38.75834052
+Longitude (WGS84): -9.15421742</description><Point><coordinates>-9.154217420,38.758340516,0</coordinates></Point></Placemark><Placemark><name>P197</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P197
+Latitude (WGS84): 38.75592665
+Longitude (WGS84): -9.15346383</description><Point><coordinates>-9.153463828,38.755926646,0</coordinates></Point></Placemark><Placemark><name>P198</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P198
+Latitude (WGS84): 38.75338596
+Longitude (WGS84): -9.15557569</description><Point><coordinates>-9.155575688,38.753385964,0</coordinates></Point></Placemark><Placemark><name>P199</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P199
+Latitude (WGS84): 38.75844851
+Longitude (WGS84): -9.15354893</description><Point><coordinates>-9.153548928,38.758448508,0</coordinates></Point></Placemark><Placemark><name>P200</name><styleUrl>#samplePoint</styleUrl><description>Identificador: P200
+Latitude (WGS84): 38.75500369
+Longitude (WGS84): -9.15681399</description><Point><coordinates>-9.156813992,38.755003689,0</coordinates></Point></Placemark></Folder></Document></kml>
